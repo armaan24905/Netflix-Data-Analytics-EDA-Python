@@ -1,4 +1,4 @@
-# 🎬 Movie Database Exploratory Data Analysis (EDA)
+# 🎬 Netflix Data Analytics Exploratory Data Analysis (EDA)
 
 An end-to-end Exploratory Data Analysis (EDA) project built using **Python**, **Pandas**, **NumPy**, **Matplotlib**, and **Seaborn**. This project focuses on cleaning, transforming, and analyzing a movie dataset to discover meaningful insights about movie genres, popularity, ratings, and release trends through data visualization.
 
